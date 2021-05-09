@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64228994484",
+    "project_id": "to-do-list-bb836",
+    "storage_bucket": "to-do-list-bb836.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64228994484:android:e46660d109318db5fe16e1",
+        "android_client_info": {
+          "package_name": "com.pranvgarg.to_dolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64228994484-nd3ld6p0s8te3iacnjr6onupq6rk0u1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOvKpI31uTEFqR0qr-T4jmZ9c8_kf3kmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64228994484-nd3ld6p0s8te3iacnjr6onupq6rk0u1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
